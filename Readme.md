@@ -1,4 +1,4 @@
-# 🧠 Data Insight API — DDD Architecture
+# 🧠 IAnalytics Flow — DDD Architecture
 
 API inteligente em **Python + FastAPI**, estruturada em **DDD (Domain-Driven Design)**, que transforma **requisições em linguagem natural** em consultas SQL otimizadas, executa no PostgreSQL e retorna resultados prontos para visualização em gráficos dinâmicos (via React + Recharts).
 
@@ -46,7 +46,6 @@ src/
 │   ├── database/          # Conexão e mapeamento PostgreSQL
 │   ├── repositories/      # Implementações concretas (SQLAlchemy)
 │   ├── openai_client.py   # Integração com OpenAI (montagem da query)
-│   └── cache/             # Estratégias de cache (Redis ou memória)
 │
 ├── application/
 │   ├── dto/               # Objetos de transferência de dados (entrada/saída)
