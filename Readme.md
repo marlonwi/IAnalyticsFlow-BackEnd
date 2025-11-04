@@ -1,4 +1,4 @@
-# 🧠 IAnalytics Flow — DDD Architecture
+# 🧠 Data Insight API — DDD Architecture
 
 API inteligente em **Python + FastAPI**, estruturada em **DDD (Domain-Driven Design)**, que transforma **requisições em linguagem natural** em consultas SQL otimizadas, executa no PostgreSQL e retorna resultados prontos para visualização em gráficos dinâmicos (via React + Recharts).
 
